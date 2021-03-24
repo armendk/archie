@@ -1,4 +1,4 @@
-baseURL = "gallant-pasteur-b2936b.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Archie"
 theme="archie"
